@@ -62,4 +62,4 @@ Supported data-driven planning for product categories, shipping strategies, and 
 Improved overall sales and profitability analysis through interactive insights.
 
 screenshot :
-()
+(https://github.com/kundan-kumar23/superstore-dashboard/blob/main/superstore%20sales%20dashboard.png)
